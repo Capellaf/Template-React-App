@@ -1,4 +1,4 @@
-# Basic template to initiate a React App
+# Basic template to React App
 
 ## Setup
 cd <PROJECT-PATH> 
